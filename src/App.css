@@ -539,6 +539,7 @@ border-radius: 20px;
   display: flex;
 flex-direction: row;
 align-items: flex-start;
+justify-content: space-between;
 padding: 0px;
 margin-top: 20px;
 position: static;
@@ -577,6 +578,7 @@ margin-left: 20px;
   height: 68px;
   left: 20px;
   top: 118px;
+  justify-content: space-between;
 }
 .main-blog-frac2 h4{
   font-style: normal;
@@ -607,6 +609,7 @@ margin-left: 20px;
   height: 68px;
   left: 20px;
   top: 216px;
+  justify-content: space-between;
   
 }
 .main-blog-frac3 h4{
