@@ -1,4 +1,5 @@
 import React from 'react'
+import icon from "../../assets/icons/notifications_24px.svg"
 
 const Header = () => {
     return (
@@ -7,7 +8,7 @@ const Header = () => {
           <h3 class="title">Hola, Hannah</h3>
         </div>
         <div className="header-img">
-          <img src="/assets/icons/notifications_24px.svg" alt="Notificaciones" />
+          <img src={icon} alt="Notificaciones" />
         </div>
       </header>
     )
